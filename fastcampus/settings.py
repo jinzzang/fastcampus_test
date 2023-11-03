@@ -84,7 +84,7 @@ DATABASES = {
         'NAME': 'project1',
         'USER' : 'admin',
         'PASSWORD':'songggi111!',
-        'HOST':'database-1.cdf9xke7z7ni.us-east-2.rds.amazonaws.com',
+        'HOST':'database-1.cas9muv8gcij.ap-northeast-2.rds.amazonaws.com',
         'PORT':'3306',
         'OPTIONS':{
             'init_command' : "SET sql_mode='STRICT_TRANS_TABLES'"
